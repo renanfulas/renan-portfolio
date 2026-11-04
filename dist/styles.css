@@ -101,7 +101,7 @@
 .sale-facts div{padding:18px 18px 0 0}.sale-facts div+div{padding-left:18px;border-left:1px solid var(--line)}
 .sale-facts dt{font-family:var(--display);font-size:26px;font-weight:500;letter-spacing:-.04em}
 .sale-facts dd{margin:6px 0 0;font-size:11px;color:var(--muted);line-height:1.6}
-.build-card{background:#1d221c;border:1px solid var(--line);border-radius:10px;padding:26px 28px;box-shadow:0 30px 70px #0007;transform:rotate(1.5deg)}
+.build-card{background:#1d221c;border:1px solid var(--line);border-radius:10px;padding:26px 28px;box-shadow:0 30px 70px #0007}
 .build-top{display:flex;justify-content:space-between;align-items:center;gap:15px;padding-bottom:18px;border-bottom:1px solid var(--line);font-size:11px;color:#aeb8a8}
 .build-url:before{content:'';display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--lime);margin-right:9px}
 .build-status{display:grid;font-size:9px;font-weight:800;letter-spacing:.12em;text-transform:uppercase}
